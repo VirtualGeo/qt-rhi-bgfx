@@ -1,0 +1,7 @@
+<RCC>
+    <qresource>
+        <file>main.qml</file>
+        <file>bin/dx11/cubes.vert.bin</file>
+        <file>bin/dx11/cubes.frag.bin</file>
+    </qresource>
+</RCC>
